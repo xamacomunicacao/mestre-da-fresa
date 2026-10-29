@@ -1,0 +1,4 @@
+Abra index.html ou hospede o conteúdo desta pasta.
+As mídias estão na pasta assets.
+Serviços incorporados, scripts e outras URLs externas ainda precisam de internet.
+A publicação não é automática.
